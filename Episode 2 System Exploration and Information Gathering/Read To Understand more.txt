@@ -1,0 +1,4 @@
+Explanation for Episode 2:
+dir: A simple command that lists all files in a directory. It's safe and essential for exploring directories.
+type: Displays the contents of a file. It is also safe and commonly used for reading configuration files or logs.
+systeminfo: Retrieves detailed information about the system. It’s a legal and safe command for system admins and those learning to interact with systems.

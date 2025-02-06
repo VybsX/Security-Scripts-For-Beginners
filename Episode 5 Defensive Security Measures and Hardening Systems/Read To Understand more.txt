@@ -1,0 +1,6 @@
+Episode 5: Defense Techniques (Firewalls, System Hardening)
+In this final episode, we’ll discuss defensive measures like firewalls and system hardening techniques that help protect against unauthorized access.
+
+Explanation for Episode 5:
+Firewall configuration: Firewalls are crucial in controlling network traffic. The example command disables specific rules in the firewall, which is a basic defensive technique.
+System hardening: Disabling unnecessary services is one way to harden your system against attacks. This is a legal and important practice in cybersecurity.

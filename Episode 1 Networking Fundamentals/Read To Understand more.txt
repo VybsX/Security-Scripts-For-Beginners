@@ -1,0 +1,7 @@
+Episode 1: Basic Networking Commands
+In this episode, we'll teach the basic networking commands that are essential to any network administrator or cybersecurity professional. These are the fundamental commands that allow you to check network connectivity and troubleshoot issues.
+
+Explanation for Episode 1:
+ping: A simple and essential command to test the reachability of any IP address. It's legal and safe for educational use, especially when testing publicly available IPs like 8.8.8.8 (Google DNS).
+tracert: This helps trace the path of data packets. Again, it is legal and safe on public servers.
+netstat: Legal and shows active network connections. Useful to monitor open ports and connections in your local system.

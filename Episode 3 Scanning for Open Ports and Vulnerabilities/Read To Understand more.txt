@@ -1,0 +1,5 @@
+Episode 3: Using Nmap for Port Scanning
+In this episode, we’ll dive into the powerful Nmap tool. Nmap is a network scanning tool used to discover hosts and services on a computer network. This is one of the most important tools for a cybersecurity professional.
+
+Explanation for Episode 3:
+Nmap: A widely-used network scanner that can detect open ports and services running on a target machine. It is legal to use for testing on servers or systems that you own or have explicit permission to scan (e.g., 8.8.8.8 for testing purposes).
